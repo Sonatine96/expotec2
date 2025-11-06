@@ -1,0 +1,50 @@
+body {
+    font-family: 'Courier New', Courier, monospace; 
+    background-color: black;
+}
+
+header{
+    border: 2px solid rgb(0, 255, 0);
+    padding: 10px;
+}
+div{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.recuadro {
+    border: 2px solid rgb(0, 255, 0);
+    padding: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+h1 {
+    color: #00ff2b;
+    font-size: 40px;
+}
+h2{
+    color: #00ff2b;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+h3 {
+    color: #1de63f;
+    font-size: 20px;
+}
+h4, h5, h6{
+    color: #00da24;
+    text-indent: 10px; 
+    font-family: Courier;
+}
+b{
+    color: #00ff2b;
+}
+a{
+    color: rgb(0, 255, 0);
+}
+u{
+    color: rgb(0, 255, 0);
+}
